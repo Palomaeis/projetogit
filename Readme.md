@@ -1,1 +1,1 @@
-Estou aprendendo e vou conseguir usar o git 
+Estou aprendendo e vou conseguir usar essa ferramenta 
